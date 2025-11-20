@@ -1,1 +1,5 @@
-
+matplotlib~=3.10.7
+textstat~=0.7.11
+nltk~=3.9.2
+numpy~=2.3.4
+spacy~=3.8.11
